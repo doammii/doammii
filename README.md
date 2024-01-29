@@ -17,7 +17,7 @@
 ﻿Machine Learning, Deep Learning, Natural Language Processing, Multi-Modal, Medical AI
 
 ### Work Experience 
-﻿- Undergraduate Research Intern (2023.05 - Present) : Artificial Intelligence Applications Lab, Hongik University, Seoul
+- Undergraduate Research Intern (2023.05 - Present) : Artificial Intelligence Applications Lab, Hongik University, Seoul
  
 - Plaka Inc. Development Team Intern (2023.06.19 - 2023.12.18) : STT-based Insurance Counseling Chatbot Development
 
