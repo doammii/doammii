@@ -14,12 +14,14 @@
 </div>  
 
 ### Fields of Interest
-﻿Machine Learning, Deep Learning, Natural Language Processing, Multi-Modal, Medical AI
+﻿Machine Learning, Deep Learning, Natural Language Processing, Large Language Model, Medical AI, Bioinformatics
 
 ### Work Experience 
 - Undergraduate Research Intern (2023.05 - Present) : Artificial Intelligence Applications Lab, Hongik University, Seoul
  
-- Plaka Inc. Development Team Intern (2023.06.19 - 2023.12.18) : STT-based Insurance Counseling Chatbot Development
+- Development Team Intern (2023.06 - Present) : Plaka Inc., Seoul
+    - Human-AI Chatbot Platform Technology Development (2024년도 하반기 창업성장기술개발사업 디딤돌 과제 선정, 중소벤처기업부)
+- Summer Research Fellowship (2024.06.24 - 2024.07.19) : Lab of Computational Biology, POSTECH Department of Life Sciences, Pohang
 
 
 ### Languages and Tools  
