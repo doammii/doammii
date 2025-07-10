@@ -8,23 +8,26 @@
 <a href="https://www.linkedin.com/in/doammii/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/doammii" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
 </div>  
 
-### Fields of Interest
-﻿Machine Learning, Deep Learning, Natural Language Processing, Large Language Model, Medical AI, Bioinformatics
+### 😊 Fields of Interest
+- Natural Language Processing
 
-### Work Experience 
-- Undergraduate Research Intern (2023.05 - Present) : Artificial Intelligence Applications Lab, Hongik University, Seoul
+- Large Language Model Utilization/Usage
+
+- AI Agent
+  
+- Medical AI, AI-driven Drug Discovery
+
+### 💻 Work Experience 
+- Undergraduate Research Intern (2023.05 - 2024.09) : Artificial Intelligence Applications Lab, Hongik University, Seoul
  
 - Development Team Intern (2023.06 - Present) : Plaka Inc., Seoul
     - Human-AI Chatbot Platform Technology Development (2024년도 하반기 창업성장기술개발사업 디딤돌 과제 선정, 중소벤처기업부)
 - Summer Research Fellowship (2024.06.24 - 2024.07.19) : Lab of Computational Biology, POSTECH Department of Life Sciences, Pohang
 
 
-### Languages and Tools  
+### 🗃️ Languages and Tools  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 20px; padding-right: 40px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="80" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 20px; padding-right: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="80" /></a>  
@@ -43,7 +46,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="80" /></a>  
 </div>  
 
-### Github Stats  
+### 👩‍💼 Github Stats  
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
