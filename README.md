@@ -20,9 +20,12 @@
 - Medical AI, AI-driven Drug Discovery
 
 ### 💻 Work Experience 
+- M.S. Student (2025.03 - Present): MIDAS Lab, SAIHST, Sungkyunkwan University, Seoul
+    - 응급실 특화 AI기반 임상지원시스템 개발(AEGIS 프로젝트) - 외상 및 국민체감형 AI SW/CDSS 개발 (보건복지부)
+
 - Undergraduate Research Intern (2023.05 - 2024.09) : Artificial Intelligence Applications Lab, Hongik University, Seoul
  
-- Development Team Intern (2023.06 - Present) : Plaka Inc., Seoul
+- Development Team Intern (2023.06 - 2024.12) : Plaka Inc., Seoul
     - Human-AI Chatbot Platform Technology Development (2024년도 하반기 창업성장기술개발사업 디딤돌 과제 선정, 중소벤처기업부)
 - Summer Research Fellowship (2024.06.24 - 2024.07.19) : Lab of Computational Biology, POSTECH Department of Life Sciences, Pohang
 
